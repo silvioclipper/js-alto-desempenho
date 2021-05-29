@@ -28,7 +28,6 @@
     
     h.push('<\/thead>')
     h.push('<tbody>')
-    console.log(h)
     
     document.getElementById('here').innerHTML = h.join('')
 })()
